@@ -1,11 +1,16 @@
 Id,titre,description,service,date
-1,Machine en panne,La machine A123 s'est arrêtée en raison d'une surchauffe,Production,2025-10-20
-2,Problème électrique,Coupure de courant dans le secteur B,Maintenance,2025-10-21
-3,Erreur logiciel,Le logiciel de contrôle de qualité plante régulièrement,IT,2025-10-22
-4,Rupture de stock,Pénurie de pièces pour la ligne de montage 3,Logistique,2025-10-23
-5,Incident sécurité,Accident mineur dans l'atelier,Production,2025-10-23
-6,Maintenance planifiée,Entretien préventif de la presse hydraulique,Maintenance,2025-10-24
-7,Problème réseau,Interruption temporaire du réseau interne,IT,2025-10-24
-8,Défaut qualité,Produit non conforme détecté lors du contrôle,Qualité,2025-10-25
-9,Délai fournisseur,Retard dans la livraison de matériaux,Logistique,2025-10-25
-10,Incident chimique,Fuite mineure de liquide dangereux,Production,2025-10-26
+1,Panne machine,Moteur en surchauffe,Production,2021-03-15
+2,Erreur de livraison,Produit manquant,Logistique,2021-05-20
+3,Incident sécurité,Accès non autorisé,Sécurité,2022-01-12
+4,Panne réseau,Interruption internet,IT,2022-03-22
+5,Problème qualité,Produit défectueux,Qualité,2022-07-30
+6,Panne machine,Chaîne arrêtée,Production,2023-02-10
+7,Erreur facturation,Facture incorrecte,Finance,2023-04-05
+8,Incident sécurité,Alarme déclenchée,Sécurité,2023-06-18
+9,Problème qualité,Test échoué,Qualité,2024-01-25
+10,Panne réseau,Serveur down,IT,2024-03-03
+11,Erreur de livraison,Livraison retardée,Logistique,2024-05-14
+12,Panne machine,Moteur en panne,Production,2024-08-19
+13,Erreur facturation,Double facturation,Finance,2024-09-10
+14,Incident sécurité,Intrusion détectée,Sécurité,2024-10-21
+15,Problème qualité,Non-conformité,Qualité,2024-12-02
